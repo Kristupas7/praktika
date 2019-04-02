@@ -1,0 +1,7 @@
+D:\uzduotys\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\uzduotys\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\uzduotys\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\uzduotys\ConsoleApp1\ConsoleApp1\obj\Debug\Uzduotis1.csprojAssemblyReference.cache
+D:\uzduotys\ConsoleApp1\ConsoleApp1\obj\Debug\Uzduotis1.csproj.CoreCompileInputs.cache
+D:\uzduotys\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\uzduotys\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

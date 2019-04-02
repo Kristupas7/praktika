@@ -1,0 +1,10 @@
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\bin\Debug\uzduotis2serveris.exe.config
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\bin\Debug\uzduotis2serveris.exe
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\bin\Debug\uzduotis2serveris.pdb
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\obj\Debug\uzduotis2serveris.csprojAssemblyReference.cache
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\obj\Debug\uzduotis2serveris.Form1.resources
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\obj\Debug\uzduotis2serveris.Properties.Resources.resources
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\obj\Debug\uzduotis2serveris.csproj.GenerateResource.cache
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\obj\Debug\uzduotis2serveris.csproj.CoreCompileInputs.cache
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\obj\Debug\uzduotis2serveris.exe
+D:\uzduotys\uzduotis2serveris\uzduotis2serveris\obj\Debug\uzduotis2serveris.pdb
